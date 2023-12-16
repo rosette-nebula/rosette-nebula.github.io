@@ -1,8 +1,3 @@
----
-date: 2023-12-15
-lastUpdated: true
----
-
 # wordpress6.2.2 版本修改固定链接
 
 > wordpress 默认是不使用`.htaccess`
